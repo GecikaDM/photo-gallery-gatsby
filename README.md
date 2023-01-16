@@ -1,11 +1,9 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
-  Gatsby minimal starter
+ Photo gallery in Gatsby
 </h1>
+
+<p> The aim of the project is to create my photo gallery with gatsby - thas is a side project that will be include in my portfolio v2 which in in progress too</p>
 
 ## 🚀 Quick start
 
