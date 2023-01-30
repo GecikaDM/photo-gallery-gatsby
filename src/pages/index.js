@@ -1,6 +1,7 @@
 // Import reat this let us use JSX in a js file
 import * as React from 'react';
 import Layout from '../components/layout';
+import { StaticImage } from 'gatsby-plugin-image';
 
 //define my first component
 
@@ -8,6 +9,10 @@ const HomePage = () => {
   return (
     <Layout pageTitle="Home Page">
       <p>I'm making this by following the Gatsby.</p>
+      <StaticImage
+        alt="horse shoe bend"
+        src="../images/horseShoeBend.jpg"
+      />
     </Layout>
   )
 }
