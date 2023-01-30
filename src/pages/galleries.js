@@ -2,16 +2,16 @@ import * as React from 'react';
 import Layout from '../components/layout';
 
 
-const MyWork = () => {
+const Galleries = () => {
     return (
-        <Layout pageTitle="My Work">
+        <Layout pageTitle="Galleries">
         <p>Hi there! Have a look at my Work.</p>
         </Layout>
 
     )
 }
 
-export const Head = () => <title> My Work</title>
+export const Head = () => <title> Galleries</title>
 
 
-export default MyWork;
+export default Galleries;
